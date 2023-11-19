@@ -11,6 +11,6 @@ function makeid(l) {
 	return ans;
 }
 
-// Do not change the code below.
+// Do not change the code belo
 const l = prompt("Enter a number.");
 alert(makeid(l));
